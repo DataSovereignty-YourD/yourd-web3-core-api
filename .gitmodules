@@ -1,0 +1,6 @@
+[submodule "sdk/yourd-web3login-sdk-nodejs"]
+	path = sdk/yourd-web3login-sdk-nodejs
+	url = https://github.com/DataSovereignty-YourD/yourd-web3login-sdk-nodejs.git
+[submodule "sdk/yourd-web3login-sdk-python"]
+	path = sdk/yourd-web3login-sdk-python
+	url = https://github.com/DataSovereignty-YourD/yourd-web3login-sdk-python.git
